@@ -1,1 +1,0 @@
-<?php if (!defined('THINK_PATH')) exit(); if(is_array($films)): foreach($films as $key=>$vo): ?><option value="<?php echo ($vo["id"]); ?>"><?php echo ($vo["title"]); ?></option><?php endforeach; endif; ?>
