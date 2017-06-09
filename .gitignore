@@ -1,4 +1,7 @@
 .idea
 thinkphp_ticket/.idea
-thinkphp_ticket/App/Runtime
+thinkphp_ticket/App/Runtime/Cache/*
+thinkphp_ticket/App/Runtime/Data/*
+thinkphp_ticket/App/Runtime/Logs/*
+thinkphp_ticket/App/Runtime/Temp/*
 thinkphp_ticket/App/Common/Conf/config.php
