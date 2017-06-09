@@ -1,0 +1,41 @@
+<?php if (!defined('THINK_PATH')) exit();?>
+<div class="pageContent">
+	<form method="post" enctype="multipart/form-data" action="/thinkphp_ticket/index.php/Admin/Cinema/insert/navTabId/cinemalist/callbackType/closeCurrent"  class="pageForm required-validate" 
+		onsubmit="return iframeCallback(this,dialogAjaxDone);"><?php  ?>
+		<div class="pageFormContent" layoutH="60">
+			<dl>
+				<dt>影院名称：</dt>
+				<dd><input type="text" class="required"  style="width:100%" name="title"/></dd>
+			</dl>
+			<dl>
+				<dt>图片：</dt>
+				<dd><input  type="file"  style="width:100%" name="pic"/></dd>
+			</dl>
+			<dl>
+				<dt>联系电话：</dt>
+				<dd><input type="text"   style="width:100%" name="phone"/></dd>
+			</dl>
+
+            <dl>
+				<dt>影院地址：</dt>
+				<dd><input type="text"  size="10" style="width:100%" name="address"/></dd>
+			</dl>
+			<dl>
+				<dt>影院服务：</dt>
+				<dd><input type="text"  size="10" style="width:100%" name="service"/></dd>
+			</dl>
+			<dl>
+				<dt>简介：</dt>
+				<dd><textarea rows="7" class="editor" tools="mini" cols="50" name="introduction"></textarea> </dd>
+			</dl>
+
+		</div>
+		
+		<div class="formBar">
+			<ul>
+				<li><div class="buttonActive"><div class="buttonContent"><button type="submit">保存</button></div></div></li>
+				<li><div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div></li>
+			</ul>
+		</div>
+	</form>
+</div>

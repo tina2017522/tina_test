@@ -1,0 +1,62 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>风险管理平台</title>
+<link href="/thinkphp_ticket/Public/jui/themes/css/login.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<div id="login">
+		<div id="login_header">
+			<h1 class="login_logo">
+				<a href="http://demo.dwzjs.com"><img src="/thinkphp_ticket/Public/jui/themes/default/images/login_logo.gif" /></a>
+			</h1>
+			<div class="login_headerContent">
+				<div class="navList">
+					<ul>
+						<li><a href="#">设为首页</a></li>
+						<li><a href="http://bbs.dwzjs.com">反馈</a></li>
+						<li><a href="doc/dwz-user-guide.pdf" target="_blank">帮助</a></li>
+					</ul>
+				</div>
+				<h2 class="login_title"><img src="/thinkphp_ticket/Public/jui/themes/default/images/login_title.png" /></h2>
+			</div>
+		</div>
+		<div id="login_content">
+			<div class="loginForm">
+				<form action="/thinkphp_ticket/index.php/Admin/Public/doLogin" method="post">
+					<p>
+						<label>用户名：</label>
+						<input type="text" name="account" size="20" class="login_input" />
+					</p>
+					<p>
+						<label>密码：</label>
+						<input type="password" name="pass" size="20" class="login_input" />
+					</p>
+					<p>
+						<label>验证码：</label>
+						<input class="code" type="text" name="code" size="5" />
+						<span><img src="/thinkphp_ticket/index.php/Admin/Public/verify" alt="" width="75" height="24" onclick="this.src='/thinkphp_ticket/index.php/Admin/Public/verify?id='+Math.random();" /></span>
+					</p>
+					<div class="login_bar">
+						<input class="sub" type="submit" value=" " />
+					</div>
+				</form>
+			</div>
+			<div class="login_banner"><img src="/thinkphp_ticket/Public/jui/themes/default/images/login_banner.jpg" /></div>
+			<div class="login_main">
+				<ul class="helpList">
+					<li style="color:red;"><?php echo ($errorinfo); ?></li>
+					<!-- <li><a href="#"></a></li>-->
+					
+				</ul>
+				<div class="login_inner">
+			    </div>
+			</div>
+		</div>
+		<div id="login_footer">
+			Copyright &copy; 2009 www.dwzjs.com Inc. All Rights Reserved.
+		</div>
+	</div>
+</body>
+</html>

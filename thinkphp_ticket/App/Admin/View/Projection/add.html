@@ -1,0 +1,108 @@
+
+<div class="pageContent">
+	<form method="post"  action="__URL__/insert/navTabId/projectionlist/callbackType/closeCurrent"  class="pageForm required-validate" 
+		onsubmit="return iframeCallback(this,dialogAjaxDone);"><?php  //窗体组件采用这个 iframeCallback(this, navTabAjaxDone); ?>
+		<div class="pageFormContent" layoutH="60">
+			<dl>
+				<dt>影片名称:</dt>
+				<dd><select name="fid">
+					<foreach name="fids" item="vo">
+						<option value="{$vo.id}">{$vo.title}</option>
+					</foreach>
+				</select></dd>
+			</dl>
+		<dl>
+				<dt>电影院名称:</dt>
+				<dd><select name ="cid" id="cid">
+					<foreach name="cids" item="ho">
+						<option value="{$ho.id}">{$ho.title}</option>
+					</foreach>
+				</select></dd>
+			</dl>
+			
+		 						<!-- <dt>放映厅名称:</dt>
+		 						<dd><select name="hid">
+		 							<foreach name="hids" item="vo">
+		 								<option value="{$vo.id}">{$vo.title}</option>
+		 							</foreach>
+		 						</select></dd>
+		 								 					</dl>
+		 								 	 -->
+		  
+	<script>
+         $(function(){
+         	$("#cid").change(function(){
+          	var cidValue = $(this).val();
+          	//alert(cidValue);
+          	myLoad(cidValue);
+          });
+         });
+           
+           function myLoad(id){
+               //加城市信息
+              // alert(aa);
+               $.ajax({
+                      url:"__URL__/adds",
+                     type:'get',
+                     data:'id='+id,
+                 dataType:"html",
+                success:function(data){
+                	//alert(data);
+                	if(data==null){
+                		return;
+                	}
+                	$("#hid option").remove();
+                	$("#hid").append(data);
+                }              
+                 });
+           }
+        </script>
+
+		<dl>
+				<dt>放映厅名称:</dt>
+				<dd >
+					<select name="hid" id="hid"></select>
+				</dd>
+			</dl>
+		 	<dl>
+
+
+			
+
+            <dl>
+				<dt>放映日期：</dt>
+				<dd><input type="text" name="date" class="date" value="{:date('Y-m-d',time())}" /><a class="inputDateButton" href="#">选择</a></dd>
+			</dl>
+			 <dl>
+				<label>放映时间：</label>
+				<input type="text" name="time" class="date" dateFmt="HH:mm" value="{:date('H:m',time())}" mmStep="15" readonly="true"/>
+				<a class="inputDateButton" href="javascript:;">选择</a>
+			</dl>
+			<dl>
+				<dt>价格:</dt>
+				<dd><input type="text"  size="10" style="width:100%" name="price"/></dd>
+			</dl>
+			
+			<dl>
+				<dt>语言版本:</dt>
+				<dd><select name="language">
+					<foreach name="fids" item="vo">
+						<option value="{$vo.id}">{$vo.language}</option>
+					</foreach>
+				</select></dd>
+			</dl>
+			<dl>
+				<dt>座位信息:</dt>
+				<dd><input type="text"  size="10" style="width:100%" name="seatinfo"/></dd>
+			</dl>	
+		</div>
+		
+		<div class="formBar">
+			<ul>
+				<li><div class="buttonActive"><div class="buttonContent"><button type="submit">保存</button></div></div></li>
+				<li><div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div></li>
+			</ul>
+		</div>
+	</form>
+</div>
+

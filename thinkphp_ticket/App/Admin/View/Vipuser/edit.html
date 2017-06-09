@@ -1,0 +1,44 @@
+
+<div class="pageContent">
+	<form method="post" enctype="multipart/form-data" action="__URL__/update/navTabId/vipuserlist/callbackType/closeCurrent"  class="pageForm required-validate" 
+		onsubmit="return iframeCallback(this,dialogAjaxDone);"><?php  //窗体组件采用这个 iframeCallback(this, navTabAjaxDone); ?>
+		<input type="hidden" value="{$vo.id}" name="id"/>
+        <div class="list" layoutH="160">
+			<dl>
+				<dt>账号：</dt>
+				<dd>{$vo.account}</dd>
+			</dl>
+            <dl>
+				<dt>真实姓名：</dt>
+				<dd><input type="text"  size="10" style="width:30%" name="name" value="{$vo.name}"/></dd>
+			</dl>
+			<dl>
+				<dt>头像：</dt>
+				<dd><input type="file"  size="10" style="width:30%" name="pic"/><img src="__PUBLIC__/Uploads/vipuser/{$vo.picname}">
+					</dd>
+			</dl>
+			<dl>
+				<dt>邮箱：</dt>
+				<dd><input type="text" class="email" size="10" style="width:30%" value="{$vo.email}" name="email"/></dd>
+			</dl>
+			<dl>
+				<dt>电话：</dt>
+				<dd><input type="text" class="phone" size="10" style="width:30%" value="{$vo.phone}" name="phone"/></dd>
+			</dl>
+            <dl>
+				<dt>状态：</dt>
+				<dd><input type="radio" value="0" <eq name="vo.status" value="0">checked</eq> name="status"/>启用
+                    <input type="radio" value="1" <eq name="vo.status" value="1">checked</eq> name="status"/>禁用</dd>
+			</dl>
+
+		</div>
+		
+		<div class="formBar">
+			<ul>
+				<li><div class="buttonActive"><div class="buttonContent"><button type="submit">修改</button></div></div></li>
+				<li><div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div></li>
+			</ul>
+		</div>
+	</form>
+</div>
+

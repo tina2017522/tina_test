@@ -1,0 +1,83 @@
+
+<div class="pageContent">
+	<form method="post" enctype="multipart/form-data" action="__URL__/update/navTabId/projectionlist/callbackType/closeCurrent"  class="pageForm required-validate" 
+		onsubmit="return iframeCallback(this,dialogAjaxDone);"><?php  //窗体组件采用这个 iframeCallback(this, navTabAjaxDone); ?>
+		<input type="hidden" value="{$vo.id}" name="id"/>
+        <div class="pageFormContent" layoutH="160">
+			<dl>
+				<dt>账号：</dt>
+				<dd>{$vo.id}</dd>
+			</dl>
+
+		<dl>	
+			<dt>影片名称</dt>
+			<dd><select name="fid">
+				<foreach name="fids" item="vd">
+					<option <eq name='vd.id' value="$vo.fid">selected</eq> value="{$vd.id}">{$vd.title}</option>
+				</foreach>
+			</select></dd>
+		</dl>
+		
+		<dl>	
+			<dt>电影院名称：</dt>
+			<dd><select name="cid">
+				<foreach name="cids" item="vd">
+					<option <eq name='vd.id' value="$vo.cid">selected</eq> value="{$vd.id}">{$vd.title}</option>
+				</foreach>
+			</select></dd>
+		</dl>	
+
+		<dl>	
+			<dt>放映厅名称：</dt>
+			<dd><select name="hid">
+				<foreach name="hids" item="vd">
+					<option <eq name='vd.id' value="$vo.hid">selected</eq> value="{$vd.id}">{$vd.title}</option>
+				</foreach>
+			</select></dd>
+		</dl>	
+			
+			<dl>
+				<dt>放映日期：</dt>
+				<dd><input type="text" name="date" class="date" value="{$vo.date}" /><a class="inputDateButton" href="#">选择</a></dd>
+			</dl>
+			 
+			 <dl>
+				<label>放映时间：</label>
+				<input type="text" name="time" class="date" dateFmt="HH:mm" value="{$vo.time}" mmStep="15" readonly="true"/>
+				<a class="inputDateButton" href="javascript:;">选择</a>
+			</dl>
+			 <dl>
+				<dt>价格：</dt>
+				<dd><input type="text"  size="10" style="width:30%" name="price" value="{$vo.price}"/></dd>
+			</dl>
+			
+			<dl>	
+			<dt>语言版本</dt>
+			<dd><select name="language">
+				<foreach name="fids" item="vd">
+					<option <eq name="vd.id" value="$vo.fid">selected</eq> value="{$vd.id}">{$vd.language}</option>
+				</foreach>
+			</select></dd>
+		</dl>	
+
+			 <dl>
+				<dt>座位信息:</dt>
+				<dd><input type="text"  size="10" style="width:30%" name="seatinfo" value="{$vo.seatinfo}"/></dd>
+			</dl>
+            <dl>
+				<dt>状态：</dt>
+				<dd><input type="radio" value="0" <eq name="vo.status" value="0">checked</eq> name="status"/>启用
+                    <input type="radio" value="1" <eq name="vo.status" value="1">checked</eq> name="status"/>禁用</dd>
+			</dl>
+
+		</div>
+		
+		<div class="formBar">
+			<ul>
+				<li><div class="buttonActive"><div class="buttonContent"><button type="submit">修改</button></div></div></li>
+				<li><div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div></li>
+			</ul>
+		</div>
+	</form>
+</div>
+

@@ -1,0 +1,72 @@
+
+<div class="pageContent">
+	<form method="post" enctype="multipart/form-data" action="__URL__/update/navTabId/halllist/callbackType/closeCurrent"  class="pageForm required-validate" 
+		onsubmit="return validateCallback(this,dialogAjaxDone);"><?php  //窗体组件采用这个 iframeCallback(this, navTabAjaxDone); ?>
+		<input type="hidden" value="{$vo.id}" name="id"/>
+		<input type="hidden" value="{$vo.cid}" name="cids"/>
+        <div class="pageFormContent" layoutH="160">
+            <dl>
+				<dt>放映厅名称：</dt>
+				<dd><input type="text"  size="10" style="width:30%" name="title" value="{$vo.title}"/></dd>
+			</dl>
+			
+			<dl>
+				<dt>座位数：</dt>
+				<dd><input type="text" style="width:30%" name="number" value="{$vo.number}"/></dd>
+			</dl>
+
+			<dl>
+			<dt>所属影院：</dt>
+			<dd><select name="cid">
+				<foreach name="cids" item="vd">
+					<option <eq name='vd.id' value="$vo.cid">selected</eq> value="{$vd.id}">{$vd.title}</option>
+				</foreach>
+			</select></dd>
+		</dl>
+			
+			<!-- <dl>
+				<dt>所属影院：</dt>
+				<dd><select name="cid">
+					<foreach name="cids" item="vd">
+						<option value ='$vd.title'
+							 if($vd.id == $vo.cid){
+								 selected ='$vd.title';
+							}
+						>{$vd.title}</option>
+					</foreach>
+				</select></dd>
+			</dl> -->
+			
+
+
+
+			<dl>
+				<dt>放映厅类型：</dt>
+				<dd><select name="htype">
+					<foreach name="htlist" item="title">
+						<option <eq name='key' value="$vo.htype">selected</eq> value="{$key}">{$title}</option>
+					</foreach>
+				</select></dd>
+			</dl>
+			<!-- <dl>
+				<dt>放映厅类型：</dt>
+				<dd><select name="htype">
+					<foreach name="htlist" item="title">
+						<option value="{$key}">{$title}</option>
+					</foreach>
+				</select></dd>
+			</dl> -->
+			<dl>
+				<dt>座位布局：</dt>
+				<dd><input type="text"  size="10" style="width:30%" name="layout" value="{$vo.layout}"/></dd>
+			</dl>
+		
+		<div class="formBar">
+			<ul>
+				<li><div class="buttonActive"><div class="buttonContent"><button type="submit">修改</button></div></div></li>
+				<li><div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div></li>
+			</ul>
+		</div>
+	</form>
+</div>
+

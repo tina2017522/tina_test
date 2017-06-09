@@ -1,0 +1,1 @@
+(function(b,c){if(b.top!=b.self){var a=function(){c(function(){c(document.body).remove()})};try{b.top.location.href="http://piao.163.com"}catch(d){a()}try{if(b.top.document.URL!=="http://piao.163.com"){a()}}catch(d){a()}}})(window,jQuery);
