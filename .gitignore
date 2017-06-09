@@ -1,3 +1,4 @@
 .idea
+thinkphp_ticket/.idea
 thinkphp_ticket/App/Runtime
 thinkphp_ticket/App/Common/Conf/config.php
