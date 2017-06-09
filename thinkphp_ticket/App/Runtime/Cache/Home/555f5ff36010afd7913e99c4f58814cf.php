@@ -1,12 +1,12 @@
-<div class="orangeLine" id="ticketHead">
-	<h3><a href="#" id="ticketCinemaName"><strong>{$cid.title }</strong></a>
+<?php if (!defined('THINK_PATH')) exit();?><div class="orangeLine" id="ticketHead">
+	<h3><a href="#" id="ticketCinemaName"><strong><?php echo ($cid["title"]); ?></strong></a>
 		<span class="score" style="vertical-align:middle;">7.<em class="s">0</em></span>
 		<span class="icon_z"></span>
 		<span class="icon_q"></span>
 		<span class="icon_t" style="display:none;"></span>
 		<span class="mtype_imax" style="display:none;"></span>
 	</h3>
-	<div class="add">地址：{$cid.address}
+	<div class="add">地址：<?php echo ($cid["address"]); ?>
 		<a href="javascript:;" id="6100" title="查看地图" onclick="Core.cinemaMapDialog(this.id);">[查看地图]</a>
 	</div>
 </div>
@@ -44,12 +44,12 @@
 		</tr>
 		</thead>
 		<tbody id="movieTbody" class="movieTbodyAct">
-		<foreach name="ft" item="vo">
-			<tr dm="2D" class="nobg">
-				<td class="time">{$vo.date}<br><span class="time_end">预计16:38结束</span></td>
+		<?php var_dump($ft)?>
+		<?php if(is_array($ft)): foreach($ft as $key=>$vo): ?><tr dm="2D" class="nobg">
+				<td class="time"><?php echo ($vo["date"]); ?><br><span class="time_end">预计16:38结束</span></td>
 				<td>2D</td>
-				<td>{$vo.language}</td>
-				<td>{$vo.htitle}</td>
+				<td><?php echo ($vo["language"]); ?></td>
+				<td><?php echo ($vo["htitle"]); ?></td>
 				<td class="preview_seat">
 					<div class="hallWrap" tid="591477312">
 						<span class="hallShow"></span>
@@ -63,14 +63,13 @@
 						</div>
 					</div>
 				</td>
-				<td>¥<em class="old">100</em><em class="fav ml10"><i>¥</i>{$vo.price}</em></td>
+				<td>¥<em class="old">100</em><em class="fav ml10"><i>¥</i><?php echo ($vo["price"]); ?></em></td>
 				<td>
 					<a href="http://piao.163.com/order/seat.html?ticket_id=591477312&amp;seatArea=1"
 					   class="btn_e34551 btn_89_29" rbtn="buy">选座购票</a>
 				</td>
-			</tr>
-		</foreach>
+			</tr><?php endforeach; endif; ?>
 		</tbody>
 	</table>
 	<!--放映信息-->
-</div>  
+</div>

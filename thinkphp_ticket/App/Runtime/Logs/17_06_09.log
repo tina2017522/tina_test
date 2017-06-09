@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [ 2017-06-09T23:37:56+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
 ERR: 非法操作:detail_files
 
@@ -24,4 +25,734 @@ ERR: 非法操作:detail_files
 
 [ 2017-06-09T23:38:07+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
 ERR: 非法操作:detail_files
+
+=======
+[ 2017-06-09T22:24:55+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:24:55+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:24:55+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:24:55+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:24:56+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T22:24:56+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:24:57+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:24:57+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:40:36+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:40:36+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:40:36+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:40:36+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:40:49+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T22:40:49+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:40:50+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:40:50+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:40:50+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:43:56+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:43:57+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:43:57+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:43:57+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:43:58+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:43:58+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T22:43:58+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:43:58+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:43:59+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:44:05+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 参数错误或者未定义:cid
+
+[ 2017-06-09T22:44:54+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 参数错误或者未定义:cid
+
+[ 2017-06-09T22:45:50+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 参数错误或者未定义:cid
+
+[ 2017-06-09T22:46:19+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:46:19+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:46:19+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:46:19+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:46:20+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T22:46:21+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:46:22+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:46:22+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:46:23+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:46:40+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+ERR: 参数错误或者未定义:cid
+
+[ 2017-06-09T22:47:42+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:47:42+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:47:42+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:47:42+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:47:44+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T22:47:44+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:47:45+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:47:45+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:47:45+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:47:56+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 参数错误或者未定义:cid
+
+[ 2017-06-09T22:53:34+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:53:34+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:53:34+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:53:34+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:53:36+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T22:53:36+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:53:37+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:53:37+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:53:38+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:53:44+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 参数错误或者未定义:cid
+
+[ 2017-06-09T22:59:30+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:59:31+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:59:31+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:59:31+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:59:33+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:59:33+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T22:59:33+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:59:34+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T22:59:35+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:04:39+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:04:39+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:04:39+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:04:39+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:04:40+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:04:40+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T23:04:41+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:04:41+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:04:42+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:06:03+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:06:03+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:06:03+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:06:03+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:06:05+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T23:06:05+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:06:06+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:06:06+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:06:06+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:07:47+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:07:47+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:07:47+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:07:47+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:07:49+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T23:07:49+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:07:49+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:07:50+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:07:50+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:08:31+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:08:32+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:08:32+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:08:32+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:08:33+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T23:08:34+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:08:34+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:08:34+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:08:35+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:12:22+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:12:23+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:12:23+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:12:23+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:12:25+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T23:12:25+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:12:26+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:12:27+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:12:27+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:13:06+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:13:06+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:13:06+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:13:06+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:13:08+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T23:13:08+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:13:09+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:13:09+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:13:11+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:15:49+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:15:49+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:15:49+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:15:50+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:15:51+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:15:51+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T23:15:52+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:15:52+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:15:53+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:15:59+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 参数错误或者未定义:cid
+
+[ 2017-06-09T23:18:00+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:18:00+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:18:01+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:18:01+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:18:03+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T23:18:03+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:18:04+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:18:04+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:18:06+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:18:12+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 参数错误或者未定义:cid
+
+[ 2017-06-09T23:18:59+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+ERR: 参数错误或者未定义:cid
+
+[ 2017-06-09T23:19:26+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:19:26+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:19:27+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:19:27+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:19:30+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:19:31+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T23:19:32+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:19:33+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:19:40+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:19:49+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: DESCRIBE cinema [ RunTime:0.035002s ]
+SQL: SELECT * FROM `cinema` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: DESCRIBE projection [ RunTime:0.017001s ]
+SQL: SELECT * FROM `projection` WHERE ( fid=9 AND cid=2 )  [ RunTime:0.005001s ]
+SQL: DESCRIBE hall [ RunTime:0.019001s ]
+SQL: SELECT `title` FROM `hall` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.008001s ]
+SQL: DESCRIBE film [ RunTime:0.031002s ]
+SQL: SELECT `lang` FROM `film` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.005001s ]
+ERR: 1054:Unknown column 'lang' in 'field list'
+ [ SQL语句 ] : SELECT `lang` FROM `film` WHERE ( `id` = 9 ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: projections C:\xampp\htdocs\tina_test\thinkphp_ticket\App\Runtime\Cache\Home\555f5ff36010afd7913e99c4f58814cf.php 第 47 行.
+NOTIC: [8] Undefined variable: vo C:\xampp\htdocs\tina_test\thinkphp_ticket\App\Runtime\Cache\Home\555f5ff36010afd7913e99c4f58814cf.php 第 51 行.
+NOTIC: [8] Undefined variable: vo C:\xampp\htdocs\tina_test\thinkphp_ticket\App\Runtime\Cache\Home\555f5ff36010afd7913e99c4f58814cf.php 第 54 行.
+NOTIC: [8] Undefined variable: vo C:\xampp\htdocs\tina_test\thinkphp_ticket\App\Runtime\Cache\Home\555f5ff36010afd7913e99c4f58814cf.php 第 55 行.
+NOTIC: [8] Undefined variable: vo C:\xampp\htdocs\tina_test\thinkphp_ticket\App\Runtime\Cache\Home\555f5ff36010afd7913e99c4f58814cf.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-06-09T23:26:05+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:26:06+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:26:06+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:26:06+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:26:09+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:26:09+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T23:26:11+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:26:12+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:26:16+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:26:27+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: DESCRIBE cinema [ RunTime:0.552031s ]
+SQL: SELECT * FROM `cinema` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.001001s ]
+SQL: DESCRIBE projection [ RunTime:0.046002s ]
+SQL: SELECT * FROM `projection` WHERE ( fid=9 AND cid=2 )  [ RunTime:0.004000s ]
+SQL: DESCRIBE hall [ RunTime:0.019001s ]
+SQL: SELECT `title` FROM `hall` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.002000s ]
+SQL: DESCRIBE film [ RunTime:0.015001s ]
+SQL: SELECT `lang` FROM `film` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.004001s ]
+ERR: 1054:Unknown column 'lang' in 'field list'
+ [ SQL语句 ] : SELECT `lang` FROM `film` WHERE ( `id` = 9 ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: langunage C:\xampp\htdocs\tina_test\thinkphp_ticket\App\Runtime\Cache\Home\555f5ff36010afd7913e99c4f58814cf.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.101006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-06-09T23:27:35+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:27:36+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:27:36+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:27:36+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:27:39+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T23:27:39+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:27:41+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:27:42+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:27:46+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:27:53+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: DESCRIBE cinema [ RunTime:0.024001s ]
+SQL: SELECT * FROM `cinema` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.002000s ]
+SQL: DESCRIBE projection [ RunTime:0.032002s ]
+SQL: SELECT * FROM `projection` WHERE ( fid=9 AND cid=2 )  [ RunTime:0.007001s ]
+SQL: DESCRIBE hall [ RunTime:0.016001s ]
+SQL: SELECT `title` FROM `hall` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.002000s ]
+SQL: DESCRIBE film [ RunTime:0.025001s ]
+SQL: SELECT `lang` FROM `film` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.005001s ]
+ERR: 1054:Unknown column 'lang' in 'field list'
+ [ SQL语句 ] : SELECT `lang` FROM `film` WHERE ( `id` = 9 ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-06-09T23:30:28+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.050003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.054003s ]
+SQL: DESCRIBE cinema [ RunTime:0.084005s ]
+SQL: SELECT * FROM `cinema` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.012001s ]
+SQL: DESCRIBE projection [ RunTime:0.027001s ]
+SQL: SELECT * FROM `projection` WHERE ( fid=9 AND cid=2 )  [ RunTime:0.003000s ]
+SQL: DESCRIBE hall [ RunTime:0.017001s ]
+SQL: SELECT `title` FROM `hall` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.002000s ]
+SQL: DESCRIBE film [ RunTime:0.015001s ]
+SQL: SELECT `lang` FROM `film` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1054:Unknown column 'lang' in 'field list'
+ [ SQL语句 ] : SELECT `lang` FROM `film` WHERE ( `id` = 9 ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.456026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.458026s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-06-09T23:33:56+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.035002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.039003s ]
+SQL: DESCRIBE cinema [ RunTime:0.050003s ]
+SQL: SELECT * FROM `cinema` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.020001s ]
+SQL: DESCRIBE projection [ RunTime:0.016001s ]
+SQL: SELECT * FROM `projection` WHERE ( fid=9 AND cid=2 )  [ RunTime:0.001000s ]
+SQL: DESCRIBE hall [ RunTime:0.020001s ]
+SQL: SELECT `title` FROM `hall` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.002000s ]
+SQL: DESCRIBE film [ RunTime:0.018001s ]
+SQL: SELECT `language` FROM `film` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.336020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.338020s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.030001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.030001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.023001s ]
+
+>>>>>>> dev
+[ 2017-06-09T23:41:15+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:41:15+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:41:15+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:41:15+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:41:19+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T23:41:20+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:41:22+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:41:22+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:41:27+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:41:34+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/Details/referAjax?fid=9&cid=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: DESCRIBE cinema [ RunTime:0.084005s ]
+SQL: SELECT * FROM `cinema` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.002000s ]
+SQL: DESCRIBE projection [ RunTime:0.032002s ]
+SQL: SELECT * FROM `projection` WHERE ( fid=9 AND cid=2 )  [ RunTime:0.004001s ]
+SQL: DESCRIBE hall [ RunTime:0.025001s ]
+SQL: SELECT `title` FROM `hall` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.002000s ]
+SQL: DESCRIBE film [ RunTime:0.022001s ]
+SQL: SELECT `language` FROM `film` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
 
