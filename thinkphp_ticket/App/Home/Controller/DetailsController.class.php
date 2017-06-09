@@ -37,7 +37,7 @@ class DetailsController extends Controller{
 
         foreach($ft as &$vo){
             $ht=M("Hall")->field('title')->find($vo['hid']);
-            $lt=M("Film")->field("lang")->find($vo['fid']);
+            $lt=M("Film")->field("language")->find($vo['fid']);
             $vo['htitle']=$ht['title'];
             $vo['language']=$lt['language'];
         }
