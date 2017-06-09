@@ -11,12 +11,12 @@ class PublicController extends Controller {
     //执行登录
     public function doLogin(){
         //验证验证码是否正确
-        $verify = new \Think\Verify();
+      /*  $verify = new \Think\Verify();
         if(!$verify->check($_POST['code'],"")){
             $this->assign("errorinfo","验证码错误！");
             $this->display("login");
             exit();
-        }
+        }*/
         //执行账号登录验证
         $user = M("Users")->where("account='{$_POST['account']}'")->find();
         //判断是否获取登录用户信息
