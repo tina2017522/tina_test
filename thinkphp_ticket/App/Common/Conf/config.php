@@ -5,8 +5,8 @@ return array(
     /* 数据库设置 */
     'DB_TYPE'               =>  'pdo',     // 数据库类型
     'DB_HOST'               =>  '127.0.0.1', // 服务器地址
-    'DB_NAME'               =>  'ticketdb',          // 数据库名
-    'DB_DSN' => 'mysql:host=127.0.0.1;dbname=ticketdb;charset=UTF8',
+    'DB_NAME'               =>  'ticket_tina',          // 数据库名
+    'DB_DSN' => 'mysql:host=127.0.0.1;dbname=ticket_tina;charset=UTF8',
     'DB_USER'               =>  'root',      // 用户名
     'DB_PWD'                =>  'root',          // 密码
     'DB_PORT'               =>  '3306',        // 端口
