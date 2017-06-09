@@ -1,0 +1,27 @@
+[ 2017-06-09T23:37:56+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:37:56+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:37:56+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:37:56+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:38:00+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/api
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:38:00+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/index_files/saved_resource.html
+ERR: 非法操作:index_files
+
+[ 2017-06-09T23:38:01+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/getscript
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:38:02+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/bmap.css
+ERR: 非法操作:detail_files
+
+[ 2017-06-09T23:38:07+08:00 ] ::1 /tina_test/thinkphp_ticket/index.php/Home/details/detail_files/ntes.js.%E4%B8%8B%E8%BD%BD
+ERR: 非法操作:detail_files
+

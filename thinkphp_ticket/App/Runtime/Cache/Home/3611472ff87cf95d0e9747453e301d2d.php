@@ -13,27 +13,27 @@
 <meta name="mobile-agent" content="format=xhtml;url=http://piao.163.com/wap/index.html?cityCode=110000">
 <meta name="mobile-agent" content="format=wml;url=http://piao.163.com/wap/index.html?cityCode=110000">
 
-<link rel="stylesheet" href="/thinkphp_ticket/Public/css/base.css">
-<link rel="stylesheet" href="/thinkphp_ticket/Public/css/bmap.css">
-<link rel="stylesheet" href="/thinkphp_ticket/Public/css/core.css">
-<link rel="stylesheet" href="/thinkphp_ticket/Public/css/index2014.css">
-<link rel="stylesheet" href="/thinkphp_ticket/Public/css/mv_list.css">
-<link rel="stylesheet" href="/thinkphp_ticket/Public/css/detail_new.css">
-<script src="/thinkphp_ticket/Public/js/jquery-1.4.2.js.下载"></script>
+<link rel="stylesheet" href="/tina_test/thinkphp_ticket/Public/css/base.css">
+<link rel="stylesheet" href="/tina_test/thinkphp_ticket/Public/css/bmap.css">
+<link rel="stylesheet" href="/tina_test/thinkphp_ticket/Public/css/core.css">
+<link rel="stylesheet" href="/tina_test/thinkphp_ticket/Public/css/index2014.css">
+<link rel="stylesheet" href="/tina_test/thinkphp_ticket/Public/css/mv_list.css">
+<link rel="stylesheet" href="/tina_test/thinkphp_ticket/Public/css/detail_new.css">
+<script src="/tina_test/thinkphp_ticket/Public/js/jquery-1.4.2.js.下载"></script>
     
-    <script src="/thinkphp_ticket/Public/js/easyCore.js.下载"></script><script src="/thinkphp_ticket/Public/Home/js/dialog.js.下载"></script><script src="/thinkphp_ticket/Public/js/autoComplete.js.下载"></script>
-<script src="/thinkphp_ticket/Public/js/wb.js.下载" type="text/javascript" charset="utf-8"></script>
+    <script src="/tina_test/thinkphp_ticket/Public/js/easyCore.js.下载"></script><script src="/tina_test/thinkphp_ticket/Public/Home/js/dialog.js.下载"></script><script src="/tina_test/thinkphp_ticket/Public/js/autoComplete.js.下载"></script>
+<script src="/tina_test/thinkphp_ticket/Public/js/wb.js.下载" type="text/javascript" charset="utf-8"></script>
 
 
 
     
     
-    <script src="/thinkphp_ticket/Public/js/xframe.js.下载"></script>
+    <script src="/tina_test/thinkphp_ticket/Public/js/xframe.js.下载"></script>
 
 
 
 
-<script charset="UTF-8" src="/thinkphp_ticket/Public/js/bundle.js.下载"></script><script charset="UTF-8" src="/thinkphp_ticket/Public/js/iframeWidget.js.下载"></script></head>
+<script charset="UTF-8" src="/tina_test/thinkphp_ticket/Public/js/bundle.js.下载"></script><script charset="UTF-8" src="/tina_test/thinkphp_ticket/Public/js/iframeWidget.js.下载"></script></head>
 <body><iframe id="sina_anywhere_iframe" style="display: none;" src="./index_files/saved_resource.html"></iframe>
 <noscript>&lt;div id="noScript"&gt;
 &lt;div&gt;&lt;h2&gt;请开启浏览器的Javascript功能&lt;/h2&gt;&lt;p&gt;亲，没它我们玩不转啊！求您了，开启Javascript吧！&lt;br/&gt;不知道怎么开启Javascript？那就请&lt;a href="http://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E6%89%93%E5%BC%80Javascript%E5%8A%9F%E8%83%BD" target="_blank"&gt;猛击这里&lt;/a&gt;！&lt;/p&gt;&lt;/div&gt;
@@ -679,7 +679,7 @@
         </div>
         
     	<div class="poster">
-        	<img src="/thinkphp_ticket/Public/Uploads/film/<?php echo ($films["picname"]); ?>" width="200" height="267" alt="<?php echo ($films["title"]); ?>">
+        	<img src="/tina_test/thinkphp_ticket/Public/Uploads/film/<?php echo ($films["picname"]); ?>" width="200" height="267" alt="<?php echo ($films["title"]); ?>">
         </div>
         <dl class="mv_info">
         	<dt class="overflow">
@@ -947,7 +947,7 @@
            function doRefer(aid,bid){
                 $.ajax({
                     alert(data);
-                    url: "/thinkphp_ticket/index.php/Home/Details/referAjax",
+                    url: "/tina_test/thinkphp_ticket/index.php/Home/Details/referAjax",
                     type: "get",
                     data: "fid=" + aid + "&cid" + bid,
                     dataType: "html",
@@ -1146,16 +1146,16 @@
 		<a id="feedback" href="http://feedback.zxkf.163.com/movie/show.html?flag=1" rel="nofollow" target="_blank" title="提意见" hidefocus="true"></a>
 	    <a id="toTop" href="javascript:;" rel="nofollow" title="回到顶部" hidefocus="true"></a> 
 	</div>
-    <script src="/thinkphp_ticket/Public/Home/js/index2014.js.下载"></script>
-	<script src="/thinkphp_ticket/Public/Home/js/imgScroll.js.下载"></script>
-	<script src="/thinkphp_ticket/Public/Home/js/share.js.下载"></script>
-    <script src="/thinkphp_ticket/Public/Home/js/mvCommon.js.下载"></script>
-    <script src="/thinkphp_ticket/Public/Home/js/imgSlide.js.下载"></script>
-    <script src="/thinkphp_ticket/Public/Home/js/imgZoom.js.下载"></script>
-    <script src="/thinkphp_ticket/Public/Home/js/photoview.js.下载"></script>
-    <script src="/thinkphp_ticket/Public/Home/js/mvCinema.js.下载"></script>
-    <script src="/thinkphp_ticket/Public/Home/js/comment.js.下载"></script>
-    <script src="/thinkphp_ticket/Public/Home/js/mvDetail.js.下载"></script>
+    <script src="/tina_test/thinkphp_ticket/Public/Home/js/index2014.js.下载"></script>
+	<script src="/tina_test/thinkphp_ticket/Public/Home/js/imgScroll.js.下载"></script>
+	<script src="/tina_test/thinkphp_ticket/Public/Home/js/share.js.下载"></script>
+    <script src="/tina_test/thinkphp_ticket/Public/Home/js/mvCommon.js.下载"></script>
+    <script src="/tina_test/thinkphp_ticket/Public/Home/js/imgSlide.js.下载"></script>
+    <script src="/tina_test/thinkphp_ticket/Public/Home/js/imgZoom.js.下载"></script>
+    <script src="/tina_test/thinkphp_ticket/Public/Home/js/photoview.js.下载"></script>
+    <script src="/tina_test/thinkphp_ticket/Public/Home/js/mvCinema.js.下载"></script>
+    <script src="/tina_test/thinkphp_ticket/Public/Home/js/comment.js.下载"></script>
+    <script src="/tina_test/thinkphp_ticket/Public/Home/js/mvDetail.js.下载"></script>
 <script>Core && Core.fastInit && Core.fastInit("1");</script>
 <div id="autoCompleteList"></div>
 <script type="text/javascript">
